@@ -1,0 +1,6 @@
+waterfall
+river
+sea
+lake
+pond
+well
